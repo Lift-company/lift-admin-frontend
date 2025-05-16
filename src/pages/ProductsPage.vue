@@ -6,7 +6,7 @@ import AdminLayout from '@/components/layout/AdminLayout.vue'
   <AdminLayout>
     <section class="flex grow flex-col items-center justify-center h-screen">
       <h1 class="text-6xl font-bold text-center max-w-3xl">
-        Поднимите свой бизнес на новый уровень
+        Продукты
       </h1>
     </section>
   </AdminLayout>
